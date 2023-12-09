@@ -12,3 +12,6 @@ must have installation of node JS and npm
 ## Steps for Hello World
 -> After that tsc hello-world.ts compiled the ts code into the Js code with filename hello-world.js
 -> node ./hello-world.js (To run the JS code using node)
+
+## Arrays in typescript
+
